@@ -3,11 +3,11 @@
 4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"MetadataBoundary"]
 5:"$Sreact.suspense"
 7:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"IconMark"]
-:HL["/_next/static/chunks/a51c8aadf2efafef.css","style"]
+:HL["/_next/static/chunks/ffe3553d23a354d7.css","style"]
 :HL["/logo-inverted.svg","image"]
 :HL["https://hurtta.com/cdn/shop/articles/hurtta_testimonial_expedition_parka_ii_02_929650f1-0f13-4fd7-949f-14ae50f30852.webp?v=1755074000&width=768","image"]
 :HL["https://hurtta.com/cdn/shop/articles/HurttaExpeditionParkaII_Ocean_AW25_10_Online_d1ddb24d-d90f-4445-b308-3d4e2225f92c.jpg?v=1754481034&width=768","image"]
 :HL["https://media.istockphoto.com/id/2029276683/vector/measure-tape-vector-meter-isolated-scale-yellow-ruler-measure-tape-centimeter-inch.jpg?s=612x612&w=0&k=20&c=hmQ-lBc76wQSV2lZTA6PQrGlxCnUq4sxhL-Yuzn6RIY=","image"]
-0:{"buildId":"dGNTKS_2aKrYfaCMYit32","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"head":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],null]}],"isHeadPartial":false,"staleTime":300}
+0:{"buildId":"O-SKjXSNSU7ZgicnYuyNP","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"head":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],null]}],"isHeadPartial":false,"staleTime":300}
 3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 6:[["$","title","0",{"children":"PET STEP"}],["$","meta","1",{"name":"description","content":"Išskirtinio dizaino guoliukai jūsų autintiniams. Jie suteiks jūsų augintiniui ne tik komfortą ir ilgalaikį naudojimą, bet ir papuoš interjerą."}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L7","3",{}]]
