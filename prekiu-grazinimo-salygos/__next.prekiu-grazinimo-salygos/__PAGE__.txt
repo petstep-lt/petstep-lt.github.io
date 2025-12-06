@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
 2:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
 3:"$Sreact.suspense"
-0:{"buildId":"wShEuf5n3ytS6Y_h39_Ru","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"flex flex-col m-auto max-w-[1000px] p-6 gap-6 xl:px-0 xl:py-12 xl:gap-12","children":["$","h1",null,{"children":"Prekių grąžinimo sąlygos"}]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"TMoePnReCoAEe2JsYd4zl","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"flex flex-col m-auto max-w-[1000px] p-6 gap-6 xl:px-0 xl:py-12 xl:gap-12","children":["$","h1",null,{"children":"Prekių grąžinimo sąlygos"}]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
 4:null
